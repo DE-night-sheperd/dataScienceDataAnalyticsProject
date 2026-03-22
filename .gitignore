@@ -1,0 +1,16 @@
+# PDF Reports
+report_*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Data files (optional, but good practice to exclude large local datasets)
+*.csv
+*.xlsx
+*.xls
