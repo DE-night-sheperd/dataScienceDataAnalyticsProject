@@ -17,9 +17,11 @@ openpyxl>=3.1.0        # Excel support
  
 # Machine learning (simple models + splitting + metrics) 
 scikit-learn>=1.5.0 
- 
+joblib>=1.4.0 
 # PDF report generation 
 matplotlib>=3.9.0 
+seaborn>=0.13.0
+scipy>=1.12.0
  
 # HTTP downloads (for URL loading) 
 requests>=2.32.0
